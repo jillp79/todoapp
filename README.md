@@ -10,7 +10,10 @@ React, HTML, CSS and Javascript
 - Add the ability to store and retrieve multiple lists, so the user can make more than one and reference them
 - Set time limit goals for completing tasks. So if the user doesn't complete in the time allotted a reminder would pop up.
 
-
+## User Stories
+1. As a busy adult, I want to add items to a list as they come up so I can reference the info later.
+2. As a forgetful person, I want to add items to a list and be able to cross them off when I've completed.
+3. As a event planner, I want to add and review, completed, and new tasks I've put on the list to make sure I'm not missing any work to be done.
 
 
 

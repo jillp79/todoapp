@@ -1,3 +1,20 @@
+Jill Plansky
+## Overview
+Simple "To do List" - This app allows a user to add a task, remove a task and review existing tasks. The user can view all todos, completed todos or incomplete todos.
+
+## Technologies used
+React, HTML, CSS and Javascript
+
+## Ideas for future improvement
+- Better styling of the app, make the UI a bit more visually appealing
+- Add the ability to store and retrieve multiple lists, so the user can make more than one and reference them
+- Set time limit goals for completing tasks. So if the user doesn't complete in the time allotted a reminder would pop up.
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
